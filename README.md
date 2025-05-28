@@ -188,10 +188,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-- **Project Author**: [Muhammad Taufiq Al Fikri]
-- **Email**: [taufikalfikri28@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/taufiq-afk/]
-- **GitHub**: [https://github.com/taufiq-afk]
+- **Project Author**: Muhammad Taufiq Al Fikri
+- **Email**: taufikalfikri28@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/taufiq-afk/
+- **GitHub**: https://github.com/taufiq-afk
 
 ---
 
