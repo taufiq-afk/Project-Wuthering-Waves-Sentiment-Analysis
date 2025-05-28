@@ -1,0 +1,60 @@
+# Wuthering Waves Sentiment Analysis - Project Requirements
+# =========================================================
+# Multi-Platform Sentiment Analysis with Original Web Scraping Dataset
+# Production-ready requirements for public deployment
+
+# Core Data Science & ML
+pandas>=1.4.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+joblib>=1.0.0
+
+# Web Scraping
+requests>=2.23.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+urllib3>=1.25.11
+
+# App Store Scraping
+app-store-scraper>=0.3.5
+
+# Reddit Scraping (optional - using direct API)
+# praw>=7.0.0  # Uncomment if using Reddit API with authentication
+
+# Text Processing & NLP
+nltk>=3.6.0
+wordcloud>=1.8.0
+textblob>=0.17.0
+
+# Visualization & Charts
+matplotlib>=3.3.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Web Application
+streamlit>=1.16.0
+streamlit-option-menu>=0.3.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Additional Utilities
+tqdm>=4.62.0
+python-dateutil>=2.8.0
+pytz>=2021.1
+
+# Development & Testing (optional for production)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Deployment & Production
+gunicorn>=20.1.0
+python-dotenv>=0.19.0
+
+# Optional: Enhanced Features
+# streamlit-authenticator>=0.2.0  # For user authentication
+# streamlit-aggrid>=0.3.0         # For advanced data tables
+# streamlit-plotly-events>=0.1.0  # For interactive charts
